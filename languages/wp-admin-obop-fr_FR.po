@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-04-04 07:10+0200\n"
+"PO-Revision-Date: 2016-04-04 07:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../plugins/obop\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: settings.php:86
+msgid "OBOP Parameters"
+msgstr "Paramètres d'OBOP"
+
+#: settings.php:94
+msgid "This ID is provided by OBOP, it's a unique code corresponding to your website"
+msgstr "Cet identifiant vous est fournir par OBOP, c'est un code unique correspondant à votre site"
+
+#: settings.php:97
+msgid "Enabled only for test purpose"
+msgstr "Activé seulement à des fins de tests"
+
+#: settings.php:104
+msgid "List of IPs separated by comas for who the system is enabled"
+msgstr "Liste des IPs séparées par des virgules sur le quel le système sera actif pour les tests"
+
+#: settings.php:108
+msgid "Provider"
+msgstr "Fournisseur"
+
+#: settings.php:114
+msgid "Name"
+msgstr "Nom"
+
+#: settings.php:130
+msgid "None"
+msgstr "Aucun"
+
+#: settings.php:131
+msgid "Before every post"
+msgstr "Avant chaque post"
+
+#: settings.php:132
+msgid "After every post"
+msgstr "Après chaque post"
+
+#: widget.php:15
+msgid "New title"
+msgstr "Nouveau"
